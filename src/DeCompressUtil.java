@@ -19,7 +19,7 @@ public class DeCompressUtil {
 
 	/**
 	 * 
-	 * 解压zip格式压缩包
+	 * 解压zip格缩包
 	 * 
 	 * 对应的是ant.jar
 	 */
