@@ -13,7 +13,7 @@ import org.apache.tools.zip.ZipEntry;
 import org.apache.tools.zip.ZipOutputStream;
 /**
  * @author yy
- * 实现文件的压和解压缩
+ * 文件的压和解压缩
  */
 public class DeCompressUtil {
 
