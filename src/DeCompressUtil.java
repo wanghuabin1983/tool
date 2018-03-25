@@ -13,13 +13,12 @@ import org.apache.tools.zip.ZipEntry;
 import org.apache.tools.zip.ZipOutputStream;
 /**
  * @author yy
- * 和11111缩
+
  */
 public class DeCompressUtil {
 
 	/**
 	 * 
-	 * 解压zip格式压缩包
 	 * 
 	 * 对应的是ant.jar
 	 */
