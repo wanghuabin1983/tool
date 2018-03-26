@@ -12,7 +12,7 @@ import org.apache.tools.ant.taskdefs.Expand;
 import org.apache.tools.zip.ZipEntry;
 import org.apache.tools.zip.ZipOutputStream;
 /**
- * @author yy
+ * @author
 
  */
 public class DeCompressUtil {
